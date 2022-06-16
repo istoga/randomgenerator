@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#randomOutput {
+    width: 250px;
+    height: 15px;
+    border: solid black 2px;
+}
